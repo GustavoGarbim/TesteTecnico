@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Quebra-Cabeça Mapa do Brasil",
+      "description": "Um quebra-cabeça educativo com 100 peças grandes, perfeito para aprender os estados brasileiros de forma divertida.",
+      "price": 89.90,
+      "image": "/images/quebra-cabeca-mapa.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lego Jurassic World Perseguição",
+      "description": "Inclui dinossauro Carnotaurus articulado, helicóptero e caminhonete. Ideal para crianças que amam dinossauros e ação.",
+      "price": 149.90,
+      "image": "/images/lego-dino.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Livro de Matemática Divertida",
+      "description": "Ensina conceitos matemáticos básicos através de jogos e atividades lúdicas, estimulando o raciocínio lógico.",
+      "price": 59.90,
+      "image": "/images/livro-matematica.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Urso de Pelúcia Sensorial",
+      "description": "Com diferentes texturas e cores, este urso é ideal para o estímulo sensorial de crianças pequenas.",
+      "price": 119.90,
+      "image": "/images/urso-pelucia.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Quebra-Cabeça Mapa do Brasil",
+      "description": "Um quebra-cabeça educativo com 100 peças grandes, perfeito para aprender os estados brasileiros de forma divertida.",
+      "price": 89.90,
+      "image": "/images/quebra-cabeca-mapa.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Lego Jurassic World Perseguição",
+      "description": "Inclui dinossauro Carnotaurus articulado, helicóptero e caminhonete. Ideal para crianças que amam dinossauros e ação.",
+      "price": 149.90,
+      "image": "/images/lego-dino.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Livro de Matemática Divertida",
+      "description": "Ensina conceitos matemáticos básicos através de jogos e atividades lúdicas, estimulando o raciocínio lógico.",
+      "price": 59.90,
+      "image": "/images/livro-matematica.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Urso de Pelúcia Sensorial",
+      "description": "Com diferentes texturas e cores, este urso é ideal para o estímulo sensorial de crianças pequenas.",
+      "price": 119.90,
+      "image": "/images/urso-pelucia.jpg"
+    }
+  ]
+}

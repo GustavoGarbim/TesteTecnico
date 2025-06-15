@@ -1,0 +1,39 @@
+.siteHeader {
+    background-color: var(--cor-superficie);
+    padding: 1rem 2rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    border-bottom: 1px solid #e0e0e0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.headerContent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--cor-texto-principal);
+}
+
+.cartLink {
+    text-decoration: none;
+    color: var(--cor-secundaria);
+    font-weight: 500;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.cartLink:hover {
+    background-color: #eaf2ff;
+    color: #2968c8;
+}

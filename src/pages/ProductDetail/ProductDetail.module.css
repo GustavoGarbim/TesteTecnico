@@ -1,0 +1,71 @@
+.productDetail {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    background: var(--cor-superficie);
+    padding: 2.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.productDetailImage {
+    width: 100%;
+    max-width: 500px;
+    object-fit: contain;
+    border: 1px solid #eee;
+    border-radius: 6px;
+}
+
+.productDetailInfo h1 {
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: var(--cor-texto-principal);
+}
+
+.productDetailDescription {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--cor-texto-secundario);
+    margin-bottom: 1.5rem;
+}
+
+.productDetailPrice {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--cor-texto-principal);
+    margin-bottom: 1.5rem;
+}
+
+.addToCartBtn {
+    background-color: var(--cor-secundaria);
+    color: white;
+    width: 100%;
+    border: none;
+    padding: 1rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    margin-bottom: 1rem;
+}
+
+.addToCartBtn:hover {
+    background-color: #2968c8;
+}
+
+.backLink {
+    display: inline-block;
+    margin-top: 1rem;
+    color: var(--cor-secundaria);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.message {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 4rem;
+    color: var(--cor-texto-secundario);
+}
